@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dh107, a researcher working on carbon emission (CO2) inventories for world's major cities.
+- 👋 Hi, I’m @dh107, a researcher working on carbon emission (CO2) datasets for world's major cities (cities.carbonmonitor.org).
 - 👀 I’m interested in the applications of data science and AI in climate change related research.
-- 🌱 I’m currently learning Deep Q-learning (DQN, a reinforcement learning method).
+- 🌱 I’m also building a smart fleet management system using Deep reinforcement learning (Deep Q-learning).
 - 💞️ I’m looking to collaborate on city-level carbon emission inventories using carbon accounting, satellite remote sensing and GIS. 
 - 📫 How to reach me: https://dh107.github.io
 
